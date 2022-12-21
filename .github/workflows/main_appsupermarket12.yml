@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'appSuperMarket12'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C05395C12B2148FE9E25B5A39CEA7157 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_231FD2573EF94F7C917CC3145DFD7540 }}
